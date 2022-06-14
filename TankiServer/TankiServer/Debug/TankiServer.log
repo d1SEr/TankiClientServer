@@ -1,0 +1,15 @@
+﻿  Source.cpp
+d:\repos\tankiserver\tankiserver\source.cpp(67): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\repos\tankiserver\tankiserver\source.cpp(68): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\repos\tankiserver\tankiserver\source.cpp(552): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\repos\tankiserver\tankiserver\source.cpp(772): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\repos\tankiserver\tankiserver\source.cpp(799): warning C4018: <: несоответствие типов со знаком и без знака
+  TankiServer.vcxproj -> D:\repos\TankiServer\Debug\TankiServer.exe
